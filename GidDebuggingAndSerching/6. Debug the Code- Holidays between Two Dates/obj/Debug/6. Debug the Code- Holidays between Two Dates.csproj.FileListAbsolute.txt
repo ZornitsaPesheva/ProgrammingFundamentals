@@ -7,3 +7,6 @@ C:\Users\root\Documents\GitHub\test-repo\GidAndDebugging\6. Debug the Code- Holi
 C:\projects\Tech Module\ProgrammingFundamentals\GidAndDebugging\6. Debug the Code- Holidays between Two Dates\bin\Debug\_6.Debug_the_Code__Holidays_between_Two_Dates.exe.config
 C:\projects\Tech Module\ProgrammingFundamentals\GidAndDebugging\6. Debug the Code- Holidays between Two Dates\obj\Debug\_6.Debug_the_Code__Holidays_between_Two_Dates.exe
 C:\projects\Tech Module\ProgrammingFundamentals\GidAndDebugging\6. Debug the Code- Holidays between Two Dates\obj\Debug\_6.Debug_the_Code__Holidays_between_Two_Dates.pdb
+C:\projects\Tech Module\ProgrammingFundamentals\GidDebuggingAndSerching\6. Debug the Code- Holidays between Two Dates\bin\Debug\_6.Debug_the_Code__Holidays_between_Two_Dates.exe.config
+C:\projects\Tech Module\ProgrammingFundamentals\GidDebuggingAndSerching\6. Debug the Code- Holidays between Two Dates\obj\Debug\_6.Debug_the_Code__Holidays_between_Two_Dates.exe
+C:\projects\Tech Module\ProgrammingFundamentals\GidDebuggingAndSerching\6. Debug the Code- Holidays between Two Dates\obj\Debug\_6.Debug_the_Code__Holidays_between_Two_Dates.pdb
