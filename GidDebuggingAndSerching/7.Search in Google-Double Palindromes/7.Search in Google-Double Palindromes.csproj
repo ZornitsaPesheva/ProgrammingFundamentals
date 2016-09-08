@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C5CFA15C-255A-4650-908B-FE5FE6811EDD}</ProjectGuid>
+    <ProjectGuid>{B49474B3-6597-48CB-8D1D-87C04D1CC0D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_6.Debug_the_Code__Holidays_between_Two_Dates</RootNamespace>
-    <AssemblyName>_6.Debug_the_Code__Holidays_between_Two_Dates</AssemblyName>
+    <RootNamespace>_7.Search_in_Google_Double_Palindromes</RootNamespace>
+    <AssemblyName>7.Search in Google-Double Palindromes</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
