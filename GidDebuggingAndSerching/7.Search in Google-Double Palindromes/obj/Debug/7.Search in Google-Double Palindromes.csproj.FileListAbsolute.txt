@@ -1,0 +1,6 @@
+C:\projects\Tech Module\ProgrammingFundamentals\GidDebuggingAndSerching\7.Search in Google-Double Palindromes\bin\Debug\7.Search in Google-Double Palindromes.exe.config
+C:\projects\Tech Module\ProgrammingFundamentals\GidDebuggingAndSerching\7.Search in Google-Double Palindromes\bin\Debug\7.Search in Google-Double Palindromes.exe
+C:\projects\Tech Module\ProgrammingFundamentals\GidDebuggingAndSerching\7.Search in Google-Double Palindromes\bin\Debug\7.Search in Google-Double Palindromes.pdb
+C:\projects\Tech Module\ProgrammingFundamentals\GidDebuggingAndSerching\7.Search in Google-Double Palindromes\obj\Debug\7.Search in Google-Double Palindromes.csprojResolveAssemblyReference.cache
+C:\projects\Tech Module\ProgrammingFundamentals\GidDebuggingAndSerching\7.Search in Google-Double Palindromes\obj\Debug\7.Search in Google-Double Palindromes.exe
+C:\projects\Tech Module\ProgrammingFundamentals\GidDebuggingAndSerching\7.Search in Google-Double Palindromes\obj\Debug\7.Search in Google-Double Palindromes.pdb
