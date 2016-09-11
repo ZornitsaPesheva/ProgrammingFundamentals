@@ -14,22 +14,24 @@ public class SequenceOfCommands_broken
             .Select(long.Parse)
             .ToArray();
 
-        string command = Console.ReadLine();
-
-        while (!command.Equals("over"))
+        //  string command = Console.ReadLine();
+        string command = "";
+        while (!command.Equals("stop"))
         {
-            string line = Console.ReadLine().Trim();
+            string[] line = Console.ReadLine().Trim().Split(' ').ToArray();
+            command = line[0];
+            //      string line = Console.ReadLine().Trim();
             int[] args = new int[2];
 
             if (command.Equals("add") ||
-                command.Equals("substract") ||
+                command.Equals("subtract") ||
                 command.Equals("multiply"))
             {
-                string[] stringParams = line.Split(ArgumentsDelimiter);
-                args[0] = int.Parse(stringParams[0]);
-                args[1] = int.Parse(stringParams[1]);
+                //  string[] stringParams = line.Split(ArgumentsDelimiter);
+                args[0] = int.Parse(line[1]);
+                args[1] = int.Parse(line[2]);
 
-                PerformAction(array, command, args);
+             //   PerformAction(array, command, args);
             }
 
             PerformAction(array, command, args);
@@ -37,32 +39,32 @@ public class SequenceOfCommands_broken
             PrintArray(array);
             Console.WriteLine('\n');
 
-            command = Console.ReadLine();
+           // command = Console.ReadLine();
         }
     }
 
     static void PerformAction(long[] arr, string action, int[] args)
     {
-        long[] array = arr.Clone() as long[];
+     //   long[] array = arr.Clone() as long[];
         int pos = args[0];
         int value = args[1];
 
         switch (action)
         {
             case "multiply":
-                array[pos] *= value;
+                arr[pos-1] *= value;
                 break;
             case "add":
-                array[pos] += value;
+                arr[pos-1] += value;
                 break;
             case "subtract":
-                array[pos] -= value;
+                arr[pos-1] -= value;
                 break;
             case "lshift":
-                ArrayShiftLeft(array);
+                ArrayShiftLeft(arr);
                 break;
             case "rshift":
-                ArrayShiftRight(array);
+                ArrayShiftRight(arr);
                 break;
         }
     }

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Instruction Set", "4. Debugging Exercise - Instruction Set\4. Instruction Set.csproj", "{7D90074C-9B4B-4501-A587-E41E11DDF5AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Instruction Set", "4. Debugging Exercise - Instruction Set\01. Instruction Set.csproj", "{7D90074C-9B4B-4501-A587-E41E11DDF5AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Be Positive", "02. Be Positive\02. Be Positive.csproj", "{209E7143-A2B3-47C8-A466-4305EF4786FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sequence of Commands", "03. Sequence of Commands\03. Sequence of Commands.csproj", "{C4BF1D13-A10E-4EA4-B8EC-846241E8F2EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{209E7143-A2B3-47C8-A466-4305EF4786FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{209E7143-A2B3-47C8-A466-4305EF4786FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{209E7143-A2B3-47C8-A466-4305EF4786FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4BF1D13-A10E-4EA4-B8EC-846241E8F2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BF1D13-A10E-4EA4-B8EC-846241E8F2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BF1D13-A10E-4EA4-B8EC-846241E8F2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BF1D13-A10E-4EA4-B8EC-846241E8F2EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
