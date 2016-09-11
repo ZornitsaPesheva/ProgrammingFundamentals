@@ -1,0 +1,3 @@
+C:\projects\Tech Module\ProgrammingFundamentals\Debugging - Exercises\4. Debugging Exercise - Instruction Set\bin\Debug\_4.Debugging_Exercise___Instruction_Set.exe.config
+C:\projects\Tech Module\ProgrammingFundamentals\Debugging - Exercises\4. Debugging Exercise - Instruction Set\obj\Debug\_4.Debugging_Exercise___Instruction_Set.exe
+C:\projects\Tech Module\ProgrammingFundamentals\Debugging - Exercises\4. Debugging Exercise - Instruction Set\obj\Debug\_4.Debugging_Exercise___Instruction_Set.pdb
