@@ -20,6 +20,10 @@ public class SequenceOfCommands_broken
         {
             string[] line = Console.ReadLine().Trim().Split(' ').ToArray();
             command = line[0];
+            if (command.Equals("stop"))
+            {
+                break;
+            }
             //      string line = Console.ReadLine().Trim();
             int[] args = new int[2];
 
@@ -37,7 +41,7 @@ public class SequenceOfCommands_broken
             PerformAction(array, command, args);
 
             PrintArray(array);
-            Console.WriteLine('\n');
+            Console.WriteLine();
 
            // command = Console.ReadLine();
         }
@@ -71,25 +75,30 @@ public class SequenceOfCommands_broken
 
     private static void ArrayShiftRight(long[] array)
     {
+
+        var x = array[array.Length - 1];
         for (int i = array.Length - 1; i >= 1; i--)
         {
             array[i] = array[i - 1];
         }
+        array[0] = x;
     }
 
     private static void ArrayShiftLeft(long[] array)
     {
+        var x = array[0];
         for (int i = 0; i < array.Length - 1; i++)
         {
             array[i] = array[i + 1];
         }
+        array[array.Length - 1] = x;
     }
 
     private static void PrintArray(long[] array)
     {
         for (int i = 0; i < array.Length; i++)
         {
-            Console.WriteLine(array[i] + " ");
+            Console.Write(array[i] + " ");
         }
     }
 }
