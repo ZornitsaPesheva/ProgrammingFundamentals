@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Be Positive", "02. Be P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sequence of Commands", "03. Sequence of Commands\03. Sequence of Commands.csproj", "{C4BF1D13-A10E-4EA4-B8EC-846241E8F2EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Substring", "04. Substring\04. Substring.csproj", "{1F1A2F0D-C1FE-4D9B-8DD6-CB1EA0715A85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C4BF1D13-A10E-4EA4-B8EC-846241E8F2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4BF1D13-A10E-4EA4-B8EC-846241E8F2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4BF1D13-A10E-4EA4-B8EC-846241E8F2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1A2F0D-C1FE-4D9B-8DD6-CB1EA0715A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1A2F0D-C1FE-4D9B-8DD6-CB1EA0715A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1A2F0D-C1FE-4D9B-8DD6-CB1EA0715A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1A2F0D-C1FE-4D9B-8DD6-CB1EA0715A85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

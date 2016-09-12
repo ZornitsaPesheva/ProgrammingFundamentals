@@ -7,26 +7,28 @@ public class Substring_broken
         string text = Console.ReadLine();
         int jump = int.Parse(Console.ReadLine());
 
-        const char Search = 'р';
+      //  const char Search = 'р';
         bool hasMatch = false;
 
         for (int i = 0; i < text.Length; i++)
         {
-            if (text[i] == Search)
+            if (text[i] == 'p')
             {
+                
                 hasMatch = true;
 
-                int endIndex = jump;
+                int letters = jump + 1;
 
-                if (endIndex > text.Length)
+                if (letters >= text.Length - i)
                 {
-                    endIndex = text.Length;
+                    letters = text.Length - i;
                 }
 
-                string matchedString = text.Substring(i, endIndex);
+                string matchedString = text.Substring(i, letters);
                 Console.WriteLine(matchedString);
                 i += jump;
             }
+          
         }
 
         if (!hasMatch)

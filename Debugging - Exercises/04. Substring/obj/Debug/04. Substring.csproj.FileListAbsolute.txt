@@ -1,1 +1,6 @@
 C:\projects\Tech Module\ProgrammingFundamentals\Debugging - Exercises\04. Substring\bin\Debug\_04.Substring.exe.config
+C:\projects\Tech Module\ProgrammingFundamentals\Debugging - Exercises\04. Substring\bin\Debug\_04.Substring.exe
+C:\projects\Tech Module\ProgrammingFundamentals\Debugging - Exercises\04. Substring\bin\Debug\_04.Substring.pdb
+C:\projects\Tech Module\ProgrammingFundamentals\Debugging - Exercises\04. Substring\obj\Debug\04. Substring.csprojResolveAssemblyReference.cache
+C:\projects\Tech Module\ProgrammingFundamentals\Debugging - Exercises\04. Substring\obj\Debug\_04.Substring.exe
+C:\projects\Tech Module\ProgrammingFundamentals\Debugging - Exercises\04. Substring\obj\Debug\_04.Substring.pdb
