@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Exact Sum of Real Number
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Elevator", "4. Elevator\4. Elevator.csproj", "{2ABC6500-8DDA-4F0F-8B6B-CE7C3C423262}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Special Numbers", "5. Special Numbers\5. Special Numbers.csproj", "{162EF293-9516-43B0-B37F-B08DBBC87753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2ABC6500-8DDA-4F0F-8B6B-CE7C3C423262}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ABC6500-8DDA-4F0F-8B6B-CE7C3C423262}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ABC6500-8DDA-4F0F-8B6B-CE7C3C423262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{162EF293-9516-43B0-B37F-B08DBBC87753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162EF293-9516-43B0-B37F-B08DBBC87753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162EF293-9516-43B0-B37F-B08DBBC87753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162EF293-9516-43B0-B37F-B08DBBC87753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
