@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Centuries to Minutes", "1. Centuries to Minutes\1. Centuries to Minutes.csproj", "{D0DF8234-8352-456D-A003-81C1D35B4E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Circle Area (12 Digits Precision)", "2. Circle Area (12 Digits Precision)\2. Circle Area (12 Digits Precision).csproj", "{6E8467D2-E429-46BB-8902-DD70AA956730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0DF8234-8352-456D-A003-81C1D35B4E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DF8234-8352-456D-A003-81C1D35B4E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DF8234-8352-456D-A003-81C1D35B4E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DF8234-8352-456D-A003-81C1D35B4E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8467D2-E429-46BB-8902-DD70AA956730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8467D2-E429-46BB-8902-DD70AA956730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8467D2-E429-46BB-8902-DD70AA956730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8467D2-E429-46BB-8902-DD70AA956730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
