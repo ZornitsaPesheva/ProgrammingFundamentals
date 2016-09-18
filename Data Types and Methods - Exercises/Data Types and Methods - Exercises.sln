@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Practice Integer Numbers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Practice Floating Point Numbers", "2. Practice Floating Point Numbers\2. Practice Floating Point Numbers.csproj", "{199B3B30-07EC-4EA8-8A25-EB518ECDDDBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Practice Characters and Strings", "3. Practice Characters and Strings\3. Practice Characters and Strings.csproj", "{29621D65-E3B7-46DA-B1B3-25E3449EE1FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{199B3B30-07EC-4EA8-8A25-EB518ECDDDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{199B3B30-07EC-4EA8-8A25-EB518ECDDDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{199B3B30-07EC-4EA8-8A25-EB518ECDDDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29621D65-E3B7-46DA-B1B3-25E3449EE1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29621D65-E3B7-46DA-B1B3-25E3449EE1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29621D65-E3B7-46DA-B1B3-25E3449EE1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29621D65-E3B7-46DA-B1B3-25E3449EE1FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
