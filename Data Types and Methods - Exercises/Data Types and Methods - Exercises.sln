@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Practice Characters and 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Variable in Hexadecimal Format", "4. Variable in Hexadecimal Format\4. Variable in Hexadecimal Format.csproj", "{FC217B1D-2D33-4232-B4E7-D7B7F18811CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Boolean Variable", "5. Boolean Variable\5. Boolean Variable.csproj", "{99CF579E-04DB-43B1-8485-CD1453933918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Strings and Objects", "6. Strings and Objects\6. Strings and Objects.csproj", "{9ECA90CF-D712-4857-8A72-346DFDE8F7CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{FC217B1D-2D33-4232-B4E7-D7B7F18811CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC217B1D-2D33-4232-B4E7-D7B7F18811CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC217B1D-2D33-4232-B4E7-D7B7F18811CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CF579E-04DB-43B1-8485-CD1453933918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CF579E-04DB-43B1-8485-CD1453933918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CF579E-04DB-43B1-8485-CD1453933918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CF579E-04DB-43B1-8485-CD1453933918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECA90CF-D712-4857-8A72-346DFDE8F7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECA90CF-D712-4857-8A72-346DFDE8F7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECA90CF-D712-4857-8A72-346DFDE8F7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECA90CF-D712-4857-8A72-346DFDE8F7CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
