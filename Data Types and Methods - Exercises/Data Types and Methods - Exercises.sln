@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Strings and Objects", "6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Exchange Variable Values", "7. Exchange Variable Values\7. Exchange Variable Values.csproj", "{F00DA3EC-5370-483D-8989-289CE3B18597}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Employee Data", "8. Employee Data\8. Employee Data.csproj", "{858C7D72-E8C3-4919-9BAF-6AEFFCB4B366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Reversed chars", "09. Reversed chars\09. Reversed chars.csproj", "{D2841FD8-F8DA-4B13-A751-E5CDF98D2D46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{F00DA3EC-5370-483D-8989-289CE3B18597}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F00DA3EC-5370-483D-8989-289CE3B18597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F00DA3EC-5370-483D-8989-289CE3B18597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858C7D72-E8C3-4919-9BAF-6AEFFCB4B366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858C7D72-E8C3-4919-9BAF-6AEFFCB4B366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858C7D72-E8C3-4919-9BAF-6AEFFCB4B366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858C7D72-E8C3-4919-9BAF-6AEFFCB4B366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2841FD8-F8DA-4B13-A751-E5CDF98D2D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2841FD8-F8DA-4B13-A751-E5CDF98D2D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2841FD8-F8DA-4B13-A751-E5CDF98D2D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2841FD8-F8DA-4B13-A751-E5CDF98D2D46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
