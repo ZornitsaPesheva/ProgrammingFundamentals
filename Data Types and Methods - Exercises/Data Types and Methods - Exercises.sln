@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Employee Data", "8. Empl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Reversed chars", "09. Reversed chars\09. Reversed chars.csproj", "{D2841FD8-F8DA-4B13-A751-E5CDF98D2D46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Centuries to Nanoseconds", "10. Centuries to Nanoseconds\10. Centuries to Nanoseconds.csproj", "{66E36A4D-7EAB-425F-BC84-138C33A2C1F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D2841FD8-F8DA-4B13-A751-E5CDF98D2D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2841FD8-F8DA-4B13-A751-E5CDF98D2D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2841FD8-F8DA-4B13-A751-E5CDF98D2D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E36A4D-7EAB-425F-BC84-138C33A2C1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E36A4D-7EAB-425F-BC84-138C33A2C1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E36A4D-7EAB-425F-BC84-138C33A2C1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E36A4D-7EAB-425F-BC84-138C33A2C1F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
