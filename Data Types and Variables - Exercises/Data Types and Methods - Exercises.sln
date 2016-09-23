@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Vowel or Digit", "13. V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Integer to Hex and Binary", "14. Integer to Hex and Binary\14. Integer to Hex and Binary.csproj", "{FDB95DA9-C148-49B3-9676-117F94BDFA59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Fast Prime Checker - Refactor", "15. Fast Prime Checker - Refactor\15. Fast Prime Checker - Refactor.csproj", "{DD95E638-EE5F-44A5-B140-493C70E7C682}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{FDB95DA9-C148-49B3-9676-117F94BDFA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDB95DA9-C148-49B3-9676-117F94BDFA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDB95DA9-C148-49B3-9676-117F94BDFA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD95E638-EE5F-44A5-B140-493C70E7C682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD95E638-EE5F-44A5-B140-493C70E7C682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD95E638-EE5F-44A5-B140-493C70E7C682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD95E638-EE5F-44A5-B140-493C70E7C682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
