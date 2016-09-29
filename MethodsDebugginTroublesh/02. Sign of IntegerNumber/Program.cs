@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _02.Sign_of_IntegerNumber
+namespace _2.Sign_of_IntegerNumber
 {
     class Program
     {
