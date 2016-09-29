@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Blank Receipt", "1. Blank Receipt\1. Blank Receipt.csproj", "{F18A3C87-AE8F-45D7-9C6E-6D4F12F98F46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sign of IntegerNumber", "02. Sign of IntegerNumber\2. Sign of IntegerNumber.csproj", "{937E9EB9-CC9E-4DF3-A35E-5D80B4E24A83}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Printing Triangle", "3. Printing Triangle\3. Printing Triangle.csproj", "{56A46DAA-6949-4AB0-ACE2-97FD7D5F7097}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Draw a Filled Square", "4. Draw a Filled Square\4. Draw a Filled Square.csproj", "{46A0B80C-E310-4265-B0E0-1E7F9AD3E2BC}"
@@ -23,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Holidays Between Two Date
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Price Change Alert", "10. Price Change Alert\10. Price Change Alert.csproj", "{21FDEC72-479C-4856-BDC3-382ADA8CB0B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sign of IntegerNumber", "2. Sign of IntegerNumber\2. Sign of IntegerNumber.csproj", "{937E9EB9-CC9E-4DF3-A35E-5D80B4E24A83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,10 +33,6 @@ Global
 		{F18A3C87-AE8F-45D7-9C6E-6D4F12F98F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F18A3C87-AE8F-45D7-9C6E-6D4F12F98F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F18A3C87-AE8F-45D7-9C6E-6D4F12F98F46}.Release|Any CPU.Build.0 = Release|Any CPU
-		{937E9EB9-CC9E-4DF3-A35E-5D80B4E24A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{937E9EB9-CC9E-4DF3-A35E-5D80B4E24A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{937E9EB9-CC9E-4DF3-A35E-5D80B4E24A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{937E9EB9-CC9E-4DF3-A35E-5D80B4E24A83}.Release|Any CPU.Build.0 = Release|Any CPU
 		{56A46DAA-6949-4AB0-ACE2-97FD7D5F7097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{56A46DAA-6949-4AB0-ACE2-97FD7D5F7097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A46DAA-6949-4AB0-ACE2-97FD7D5F7097}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +65,10 @@ Global
 		{21FDEC72-479C-4856-BDC3-382ADA8CB0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21FDEC72-479C-4856-BDC3-382ADA8CB0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21FDEC72-479C-4856-BDC3-382ADA8CB0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937E9EB9-CC9E-4DF3-A35E-5D80B4E24A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937E9EB9-CC9E-4DF3-A35E-5D80B4E24A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937E9EB9-CC9E-4DF3-A35E-5D80B4E24A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937E9EB9-CC9E-4DF3-A35E-5D80B4E24A83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
