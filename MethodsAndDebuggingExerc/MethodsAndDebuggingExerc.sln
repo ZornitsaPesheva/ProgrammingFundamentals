@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Max Method", "02. Max M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. English Name of Last Digit", "03. English Name of Last Digit\03. English Name of Last Digit.csproj", "{A6F2A731-7DB2-4974-AEF8-0AE716396855}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Numbers in Reversed Order", "4. Numbers in Reversed Order\4. Numbers in Reversed Order.csproj", "{5C8D22FC-5752-47B6-BEA6-971ED61B4FCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A6F2A731-7DB2-4974-AEF8-0AE716396855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6F2A731-7DB2-4974-AEF8-0AE716396855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6F2A731-7DB2-4974-AEF8-0AE716396855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8D22FC-5752-47B6-BEA6-971ED61B4FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8D22FC-5752-47B6-BEA6-971ED61B4FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8D22FC-5752-47B6-BEA6-971ED61B4FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8D22FC-5752-47B6-BEA6-971ED61B4FCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
