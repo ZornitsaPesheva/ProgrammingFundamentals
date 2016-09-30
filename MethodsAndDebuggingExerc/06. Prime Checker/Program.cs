@@ -14,7 +14,9 @@ namespace _06.Prime_Checker
         {
             bool prime = true;
             if (n <= 1)
+            {
                 prime = false;
+            }            
             else
             {
                 for (int i = 2; i <= Math.Sqrt(n); i++)
