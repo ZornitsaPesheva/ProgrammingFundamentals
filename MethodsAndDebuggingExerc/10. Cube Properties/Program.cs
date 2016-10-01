@@ -8,42 +8,29 @@ namespace _10.Cube_Properties
         {
             double side = double.Parse(Console.ReadLine());
             string lengthOf = Console.ReadLine();
+            double result = 0;
             
             switch (lengthOf)
             {
                 case "face":
-                    Console.WriteLine($"{Math.Round(FaceDiag(side), 2):f2}");
+                    result = Math.Sqrt(Calc(side, 2));
                     break;
                 case "space":
-                    Console.WriteLine($"{Math.Round(SpaceDiag(side), 2):f2}");
+                    result = Math.Sqrt(Calc(side, 3));
                     break;
                 case "volume":
-                    Console.WriteLine($"{Math.Round(Volume(side), 2):f2}");
+                    result = Calc(side, side);
                     break;
                 case "area":
-                    Console.WriteLine($"{Math.Round(Area(side), 2):f2}");
+                    result = Calc(side, 6);
                     break;
             }
+            Console.WriteLine($"{Math.Round(result, 2):f2}");
         }
 
-        private static double FaceDiag(double side)
+        private static double Calc(double side, double x)
         {
-            return Math.Sqrt(2 * (side * side));
-        }
-
-        private static double SpaceDiag(double side)
-        {
-            return Math.Sqrt(3 * (side * side));
-        }
-
-        private static double Volume(double side)
-        {
-            return side * side * side;
-        }
-
-        private static double Area(double side)
-        {
-            return side * side * 6;
+            return x * (side * side);
         }
     }
 }
