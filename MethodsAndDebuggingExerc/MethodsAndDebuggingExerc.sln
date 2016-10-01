@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Longer Line", "09. Long
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Center Point", "08. Center Point\08. Center Point.csproj", "{9CB1180A-1B9E-4E3F-9855-5A1854AE2130}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Cube Properties", "10. Cube Properties\10. Cube Properties.csproj", "{0E95470E-499C-4F5A-8B41-FDC1682CFA0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{9CB1180A-1B9E-4E3F-9855-5A1854AE2130}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CB1180A-1B9E-4E3F-9855-5A1854AE2130}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CB1180A-1B9E-4E3F-9855-5A1854AE2130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E95470E-499C-4F5A-8B41-FDC1682CFA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E95470E-499C-4F5A-8B41-FDC1682CFA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E95470E-499C-4F5A-8B41-FDC1682CFA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E95470E-499C-4F5A-8B41-FDC1682CFA0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
