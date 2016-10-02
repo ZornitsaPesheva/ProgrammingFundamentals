@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Day of Week", "01. Day 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Reverse Array of Integers", "02. Reverse Array of Integers\02. Reverse Array of Integers.csproj", "{D10F1135-9AFD-4E2E-930D-D19EB122CA9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Last K Numbers Sums", "03. Last K Numbers Sums\03. Last K Numbers Sums.csproj", "{DCFCA363-9541-4D37-A2B2-6F366B33DFD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D10F1135-9AFD-4E2E-930D-D19EB122CA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D10F1135-9AFD-4E2E-930D-D19EB122CA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D10F1135-9AFD-4E2E-930D-D19EB122CA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFCA363-9541-4D37-A2B2-6F366B33DFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFCA363-9541-4D37-A2B2-6F366B33DFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFCA363-9541-4D37-A2B2-6F366B33DFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFCA363-9541-4D37-A2B2-6F366B33DFD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
