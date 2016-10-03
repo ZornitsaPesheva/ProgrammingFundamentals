@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum Arrays", "07. Sum A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Condense Array to Number", "08. Condense Array to Number\08. Condense Array to Number.csproj", "{BFED4E62-02B4-474D-9869-570F9ED783D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Extract Middle Elements", "09. Extract Middle Elements\09. Extract Middle Elements.csproj", "{9CFF1694-EA99-49A7-AD55-BFEEB28E0F5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Remove Negatives and Reverse", "10. Remove Negatives and Reverse\10. Remove Negatives and Reverse.csproj", "{F8A6D114-9583-4D7C-AE46-B4DB44C36F9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{BFED4E62-02B4-474D-9869-570F9ED783D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFED4E62-02B4-474D-9869-570F9ED783D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFED4E62-02B4-474D-9869-570F9ED783D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFF1694-EA99-49A7-AD55-BFEEB28E0F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFF1694-EA99-49A7-AD55-BFEEB28E0F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFF1694-EA99-49A7-AD55-BFEEB28E0F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFF1694-EA99-49A7-AD55-BFEEB28E0F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A6D114-9583-4D7C-AE46-B4DB44C36F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A6D114-9583-4D7C-AE46-B4DB44C36F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A6D114-9583-4D7C-AE46-B4DB44C36F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A6D114-9583-4D7C-AE46-B4DB44C36F9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
