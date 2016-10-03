@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Extract Middle Elements
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Remove Negatives and Reverse", "10. Remove Negatives and Reverse\10. Remove Negatives and Reverse.csproj", "{F8A6D114-9583-4D7C-AE46-B4DB44C36F9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Append Lists", "11. Append Lists\11. Append Lists.csproj", "{6AB7A81A-2F46-4437-8DC0-1581B1F0C35F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{F8A6D114-9583-4D7C-AE46-B4DB44C36F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8A6D114-9583-4D7C-AE46-B4DB44C36F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8A6D114-9583-4D7C-AE46-B4DB44C36F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB7A81A-2F46-4437-8DC0-1581B1F0C35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB7A81A-2F46-4437-8DC0-1581B1F0C35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB7A81A-2F46-4437-8DC0-1581B1F0C35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB7A81A-2F46-4437-8DC0-1581B1F0C35F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
