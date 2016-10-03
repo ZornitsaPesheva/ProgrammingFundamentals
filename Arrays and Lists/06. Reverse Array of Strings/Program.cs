@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _06.Reverse_Array_of_Strings
 {
@@ -10,6 +7,10 @@ namespace _06.Reverse_Array_of_Strings
     {
         static void Main(string[] args)
         {
+            string[] items = Console.ReadLine().Split(' ')
+                .ToArray();
+            string[] reversedItems = items.Reverse().ToArray();
+            Console.WriteLine(string.Join(" ", reversedItems));
         }
     }
 }
