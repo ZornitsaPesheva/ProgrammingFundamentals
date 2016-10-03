@@ -20,7 +20,7 @@ namespace _04.Tripple_Sum
                     int sum = arr[a] + arr[b];
                     if (arr.Contains(sum))
                     {
-                        Console.WriteLine($"{arr[a]} + {arr[b]} = {sum}");
+                        Console.WriteLine($"{arr[a]} + {arr[b]} == {sum}");
                         count++;
                     }
                 }

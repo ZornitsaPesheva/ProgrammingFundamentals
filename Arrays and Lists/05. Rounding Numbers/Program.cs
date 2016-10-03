@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _05.Rounding_Numbers
 {
@@ -10,6 +7,14 @@ namespace _05.Rounding_Numbers
     {
         static void Main(string[] args)
         {
+            decimal[] nums = Console.ReadLine().Split(' ').
+                Select(decimal.Parse).ToArray();
+
+            foreach (var num in nums)
+            {
+                decimal rounded = Math.Round(num, MidpointRounding.AwayFromZero);
+                Console.WriteLine(num + " => " + rounded);
+            }
         }
     }
 }
