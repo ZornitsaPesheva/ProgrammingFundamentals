@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Sort Numbers", "14. Sor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Square Numbers", "15. Square Numbers\15. Square Numbers.csproj", "{EEAABE59-C23A-4C24-8CCF-8B776DC40826}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Count Numbers", "16. Count Numbers\16. Count Numbers.csproj", "{9DE92836-500B-4F00-AE35-F59D7651278C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{EEAABE59-C23A-4C24-8CCF-8B776DC40826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEAABE59-C23A-4C24-8CCF-8B776DC40826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEAABE59-C23A-4C24-8CCF-8B776DC40826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE92836-500B-4F00-AE35-F59D7651278C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE92836-500B-4F00-AE35-F59D7651278C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE92836-500B-4F00-AE35-F59D7651278C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE92836-500B-4F00-AE35-F59D7651278C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
