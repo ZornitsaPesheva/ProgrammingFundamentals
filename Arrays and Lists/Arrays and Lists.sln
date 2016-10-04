@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Remove Negatives and Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Append Lists", "11. Append Lists\11. Append Lists.csproj", "{6AB7A81A-2F46-4437-8DC0-1581B1F0C35F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Sum Adjacent Equal Numbers", "12. Sum Adjacent Equal Numbers\12. Sum Adjacent Equal Numbers.csproj", "{18BADAAD-F9D8-441A-A66F-F615C87B710E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Split by Word Casing", "13. Split by Word Casing\13. Split by Word Casing.csproj", "{61431ED5-7F9E-4D15-992F-1AC719E0237D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{6AB7A81A-2F46-4437-8DC0-1581B1F0C35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AB7A81A-2F46-4437-8DC0-1581B1F0C35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AB7A81A-2F46-4437-8DC0-1581B1F0C35F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18BADAAD-F9D8-441A-A66F-F615C87B710E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BADAAD-F9D8-441A-A66F-F615C87B710E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BADAAD-F9D8-441A-A66F-F615C87B710E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BADAAD-F9D8-441A-A66F-F615C87B710E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61431ED5-7F9E-4D15-992F-1AC719E0237D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61431ED5-7F9E-4D15-992F-1AC719E0237D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61431ED5-7F9E-4D15-992F-1AC719E0237D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61431ED5-7F9E-4D15-992F-1AC719E0237D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
