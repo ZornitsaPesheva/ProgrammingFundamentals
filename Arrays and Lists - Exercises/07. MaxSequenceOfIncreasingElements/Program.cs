@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace _06.Max_Sequence_of_Equal_Elements
+namespace _07.MaxSequenceOfIncreasingElements
 {
     class Program
     {
@@ -16,7 +16,7 @@ namespace _06.Max_Sequence_of_Equal_Elements
             int longestLenght = 1;
             for (int i = 1; i < array.Length; i++)
             {
-                if (array[i] == array[i - 1])
+                if (array[i] > array[i - 1])
                 {
                     currentLenght++;
                     if (currentLenght > longestLenght)
