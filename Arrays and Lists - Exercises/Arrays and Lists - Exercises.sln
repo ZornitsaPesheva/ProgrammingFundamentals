@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Equal Sums", "11. Equal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Max Sequence of Equal Elements", "12. Max Sequence of Equal Elements\12. Max Sequence of Equal Elements.csproj", "{9E37ABCC-7D41-4426-BAF3-461396C6046F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Longest Increasing Subsequence", "13. Longest Increasing Subsequence\13. Longest Increasing Subsequence.csproj", "{4A6A9E66-0D31-4092-8016-FE07B379239D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9E37ABCC-7D41-4426-BAF3-461396C6046F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E37ABCC-7D41-4426-BAF3-461396C6046F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E37ABCC-7D41-4426-BAF3-461396C6046F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6A9E66-0D31-4092-8016-FE07B379239D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6A9E66-0D31-4092-8016-FE07B379239D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6A9E66-0D31-4092-8016-FE07B379239D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6A9E66-0D31-4092-8016-FE07B379239D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
