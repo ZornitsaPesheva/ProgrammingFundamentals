@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Min, Max, Sum, Average"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Largest 3 Numbers", "04. Largest 3 Numbers\04. Largest 3 Numbers.csproj", "{6BA873A9-70D2-4E58-8068-640DECD0ED4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Short Words Sorted", "05. Short Words Sorted\05. Short Words Sorted.csproj", "{B55A9665-9A7F-4717-A9B4-8438BE9BD96D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Fold and Sum", "06. Fold and Sum\06. Fold and Sum.csproj", "{6BACE508-CCA9-4361-AA71-D9080BF41227}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{6BA873A9-70D2-4E58-8068-640DECD0ED4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BA873A9-70D2-4E58-8068-640DECD0ED4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BA873A9-70D2-4E58-8068-640DECD0ED4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55A9665-9A7F-4717-A9B4-8438BE9BD96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55A9665-9A7F-4717-A9B4-8438BE9BD96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55A9665-9A7F-4717-A9B4-8438BE9BD96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55A9665-9A7F-4717-A9B4-8438BE9BD96D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BACE508-CCA9-4361-AA71-D9080BF41227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BACE508-CCA9-4361-AA71-D9080BF41227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BACE508-CCA9-4361-AA71-D9080BF41227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BACE508-CCA9-4361-AA71-D9080BF41227}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
