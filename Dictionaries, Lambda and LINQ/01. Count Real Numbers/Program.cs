@@ -10,25 +10,43 @@ namespace _01.Count_Real_Numbers
         {
             double[] numbers = Console.ReadLine().Split(' ')
                 .Select(double.Parse).ToArray();
-            Dictionary<double, int> counts = new Dictionary<double, int>();
-
-            for (int i = 0; i < numbers.Length; i++)
+            var counts = new SortedDictionary<double, int>();
+            foreach (double num in numbers)
             {
-                if (counts.ContainsKey(numbers[i]))
+                if (counts.ContainsKey(num))
                 {
-                    counts[numbers[i]]++;
+                    counts[num]++;
                 }
                 else
                 {
-                    counts.Add(numbers[i], 1);
+                    counts[num] = 1;
                 }
             }
-            List<double> list = counts.Keys.ToList();
-            list.Sort();
-            foreach (double key in list)
+
+            foreach (double num in counts.Keys)
             {
-                Console.WriteLine($"{key} -> {counts[key]}");
+                Console.WriteLine($"{num} -> {counts[num]}");
             }
+            //Следващото решение е с лист:
+            //Dictionary<double, int> counts = new Dictionary<double, int>();
+
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (counts.ContainsKey(numbers[i]))
+            //    {
+            //        counts[numbers[i]]++;
+            //    }
+            //    else
+            //    {
+            //        counts.Add(numbers[i], 1);
+            //    }
+            //}
+            //List<double> list = counts.Keys.ToList();
+            //list.Sort();
+            //foreach (double key in list)
+            //{
+            //    Console.WriteLine($"{key} -> {counts[key]}");
+            //}
         }
     }
 }
