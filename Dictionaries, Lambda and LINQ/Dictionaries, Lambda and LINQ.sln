@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Odd Occurrences", "02. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Min, Max, Sum, Average", "03. Min, Max, Sum, Average\03. Min, Max, Sum, Average.csproj", "{F7F37E5A-525B-4CBE-9E94-3E299AB07943}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Largest 3 Numbers", "04. Largest 3 Numbers\04. Largest 3 Numbers.csproj", "{6BA873A9-70D2-4E58-8068-640DECD0ED4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F7F37E5A-525B-4CBE-9E94-3E299AB07943}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7F37E5A-525B-4CBE-9E94-3E299AB07943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7F37E5A-525B-4CBE-9E94-3E299AB07943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA873A9-70D2-4E58-8068-640DECD0ED4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA873A9-70D2-4E58-8068-640DECD0ED4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA873A9-70D2-4E58-8068-640DECD0ED4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA873A9-70D2-4E58-8068-640DECD0ED4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
