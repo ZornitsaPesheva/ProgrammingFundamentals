@@ -10,6 +10,7 @@ namespace _06.User_Logs
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
