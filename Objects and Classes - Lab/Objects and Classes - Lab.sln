@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Randomize Words", "02. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Big Factorial", "03. Big Factorial\03. Big Factorial.csproj", "{DD8901F4-DEBA-473C-A98C-A908FA3B2789}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Distance between Points", "04. Distance between Points\04. Distance between Points.csproj", "{12E5C382-FCC6-470D-85FA-CC98397BDD96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DD8901F4-DEBA-473C-A98C-A908FA3B2789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD8901F4-DEBA-473C-A98C-A908FA3B2789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD8901F4-DEBA-473C-A98C-A908FA3B2789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E5C382-FCC6-470D-85FA-CC98397BDD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E5C382-FCC6-470D-85FA-CC98397BDD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E5C382-FCC6-470D-85FA-CC98397BDD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E5C382-FCC6-470D-85FA-CC98397BDD96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

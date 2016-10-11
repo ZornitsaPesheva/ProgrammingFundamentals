@@ -19,10 +19,7 @@ namespace _02.Randomize_Words
                 words[i] = words[tempI];
                 words[tempI] = temp;
             }
-            for (int i = 0; i < words.Length; i++)
-            {
-                Console.WriteLine(words[i]);
-            }
+            Console.WriteLine(string.Join("\n", words));
         }
     }
 }
